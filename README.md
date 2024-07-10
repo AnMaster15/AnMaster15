@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anchit Mehra</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588">
+<div class="tenor-gif-embed" data-postid="13167413482750165588" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588">Hack Hacking Sticker</a>from <a href="https://tenor.com/search/hack-stickers">Hack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmaster15&label=Profile%20views&color=0e75b6&style=flat" alt="anmaster15" /> </p>
 
