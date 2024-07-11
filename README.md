@@ -26,7 +26,7 @@
     <img width="480" height="470" src="https://github.com/AnMaster15/AnMaster15/blob/main/octocat-1720657121769.png" align=right>
 </a>
 <ul>
-<li><img src="https://github.com/AnMaster15/AnMaster15/blob/main/octocat-1720657121769.png" width="30"> I enjoy doing<ul>
+<li><img src="https://github.com/AnMaster15/AnMaster15/blob/main/Smiling%20Face%20with%20Sunglasses.png" width="30"> I enjoy doing<ul>
 <li>👨‍💻 Coding</li>
 <li>🏓 Table Tennis</li>
 <li>🎶 Listening Music</li>
