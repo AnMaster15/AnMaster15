@@ -1,8 +1,8 @@
 ![logo](https://github.com/AnMaster15/AnMaster15/blob/main/1709826992473.jpeg)
 <h1 align="center">Hi 👋, I'm Anchit Mehra</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h2 align="center">A passionate Full-Stack developer from India</h3>
 
-<p>
+<div>
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA2MzM1NTUsIm5iZiI6MTcyMDYzMzI1NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEwVDE3NDA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNTIxN2Y5NTIzZDZhMTJmM2M1OTUxM2QxMDBkZDU4ODRkNGQwOWE2ZjQ4NmEzNzhhOGFlODQ5YmQ5MDAyZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-VS2hN4Y76aCDbndRSma2l01OUwY2RgNETqmFtSauAc">
 
 
@@ -14,23 +14,48 @@
 
 - ⚡ Fun fact **I am very enthusiastic to new things.**
 
-</p>
 
+
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anmaster15&label=Profile%20views&color=0e75b6&style=flat"  width="20%" alt="anmaster15" /> </p>
 
+## ⚡️ A Few Quick Facts
+<a href="https://gg.gg/isaacnewtonus/">
+    <img width="480" height="270" src="https://i.imgur.com/jiK9AU1.gif" align=right>
+</a>
+<ul>
+<li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy doing<ul>
+<li>‍📖 Reading Books</li>
+<li>🔭 Physics</li>
+<li>🔢 Mathematics</li>
+<li>🖥️ OS Projects</li>
+<li>🖼 C</li>
+<li>🛠 DIY Projects</li>
+<li>🤖 Robotics</li>
+</ul>
+</li>
+<li>🤔 I’m looking for help with OS</li>
+<li>💬 Ask me about Physics, Mathematics, OS and Calculus</li>
+<li>📙 Check out my <a href="https://www.linkedin.com/in/radhesh-g/">Resume</a></li>
+<li>🎉 Fun-Fact: I Love Physics,Astro Physics ,and Classical Physics and read a lot of ancient science books</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehraanchit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehraanchit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anchit-mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchit mehra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26325081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26325081" height="30" width="40" /></a>
-<a href="https://codesandbox.com/anmaster15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anmaster15" height="30" width="40" /></a>
-<a href="https://instagram.com/anchit.mehra15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anchit.mehra15" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anmaster" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amehra6zuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amehra6zuu" height="30" width="40" /></a>
-<a href="https://discord.gg/anmaster2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anmaster2" height="30" width="40" /></a>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/mehraanchit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehraanchit" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/anchit-mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchit mehra" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/26325081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26325081" height="50" width="50" /></a>
+<a href="https://codesandbox.com/anmaster15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anmaster15" height="50" width="50" /></a>
+<a href="https://instagram.com/anchit.mehra15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anchit.mehra15" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/anmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anmaster" height="50" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/amehra6zuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amehra6zuu" height="50" width="50" /></a>
+<a href="https://discord.gg/anmaster2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anmaster2" height="50" width="50" /></a>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
