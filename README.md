@@ -18,7 +18,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anmaster15&label=Profile%20views&color=0e75b6&style=flat" alt="anmaster15" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anmaster15&label=Profile%20views&color=0e75b6&style=flat"  width="30%" alt="anmaster15" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
