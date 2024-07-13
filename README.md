@@ -34,7 +34,7 @@
 <li>🎥 Watching Movies </li>
 </ul>
 </li>
-<li>📙 Check out my <a href="https://www.linkedin.com/in/radhesh-g/">Resume</a></li>
+<li>📙 Check out my <a href="https://my-portfolio-c9e5d4tlv-anchit-mehras-projects.vercel.app/">Portfolio</a></li>
     
 </ul>
 
