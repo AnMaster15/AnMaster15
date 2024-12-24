@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA2MzM1NTUsIm5iZiI6MTcyMDYzMzI1NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEwVDE3NDA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNTIxN2Y5NTIzZDZhMTJmM2M1OTUxM2QxMDBkZDU4ODRkNGQwOWE2ZjQ4NmEzNzhhOGFlODQ5YmQ5MDAyZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-VS2hN4Y76aCDbndRSma2l01OUwY2RgNETqmFtSauAc">
 
 
-- 🌱 I’m currently learning **Dev Ops , Blockchain**
+- 🌱 I’m currently learning **Machine Learning , AI**
 
 - 💬 Ask me about **Full-Stack**
 
